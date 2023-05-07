@@ -1,0 +1,79 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nombre": "test",
+            "clave": 1232,
+            "mundo": "eqeqw",
+            "submundo": "test",
+            "presentacion": "test",
+            "modouso": "test",
+            "beneficios": "test",
+            "pdiferenciador": "test",
+            "idealpara": "test",
+            "contraindicaciones": "test",
+            "fotourl": "test",
+            "__v": 0
+        },
+        {
+            "id": 2,
+            "nombre": "test",
+            "clave": 1232,
+            "mundo": "eqeqw",
+            "submundo": "test",
+            "presentacion": "test",
+            "modouso": "test",
+            "beneficios": "test",
+            "pdiferenciador": "test",
+            "idealpara": "test",
+            "contraindicaciones": "test",
+            "fotourl": "test",
+            "__v": 0
+        },
+        {
+            "id": 3,
+            "nombre": "test",
+            "clave": 1232,
+            "mundo": "eqeqw",
+            "submundo": "test",
+            "presentacion": "test",
+            "modouso": "test",
+            "beneficios": "test",
+            "pdiferenciador": "test",
+            "idealpara": "test",
+            "contraindicaciones": "test",
+            "fotourl": "test",
+            "__v": 0
+        },
+        {
+            "id": 4,
+            "nombre": "test",
+            "clave": 1232,
+            "mundo": "eqeqw",
+            "submundo": "test",
+            "presentacion": "test",
+            "modouso": "test",
+            "beneficios": "test",
+            "pdiferenciador": "test",
+            "idealpara": "test",
+            "contraindicaciones": "test",
+            "fotourl": "test",
+            "__v": 0
+        },
+        {
+            "id": 5,
+            "nombre": "test",
+            "clave": 1232,
+            "mundo": "eqeqw",
+            "submundo": "test",
+            "presentacion": "test",
+            "modouso": "test",
+            "beneficios": "test",
+            "pdiferenciador": "test",
+            "idealpara": "test",
+            "contraindicaciones": "test",
+            "fotourl": "test",
+            "__v": 0
+        }
+    ]
+}
