@@ -2,78 +2,90 @@
     "products": [
         {
             "id": 1,
-            "nombre": "test",
-            "clave": 1232,
-            "mundo": "eqeqw",
-            "submundo": "test",
-            "presentacion": "test",
-            "modouso": "test",
-            "beneficios": "test",
-            "pdiferenciador": "test",
-            "idealpara": "test",
-            "contraindicaciones": "test",
-            "fotourl": "test",
-            "__v": 0
+            "nombre": "BCAA’S ARANDANO FRAMBUESA",
+            "clave": 995466,
+            "mundo": "Nutrición Deportiva",
+            "submundo": "ACTIVA TU RUTINA",
+            "quees": "Son un grupo de 3 aminoácidos esenciales (L-Leucina, L-Valina y L-Isoleucina). Son los aminoácidos más utilizados por los músculos como fuente de energía.",
+            "presentacion": "Sabor arándano frambuesa - 500 gramos.",
+            "modouso": "20 gramos al día.",
+            "beneficios": [
+                { "beneficio": "Ayuda a prevenir la degradación muscular." },
+                { "beneficio": "Son un disparador para la síntesis de proteínas." },
+                { "beneficio": "Inhiben el rompimiento de las células musculares." },
+                { "beneficio": "Ayudar a disminuir la degradación muscular" },
+                { "beneficio": "Aumento de energía." }
+            ],
+            "pdiferenciador": [
+                { "diferenciador": "Saborizantes y colorizantes 100% naturales."},
+                { "diferenciador": "5,000 mg de bcaa’s puros por porción."}
+            ],
+            "ingredientes": [
+                { "ingrediente": "2500 mg de L-Leucina por porción." },
+                { "ingrediente": "1250 mg de L-Isoleucina por porción." },
+                { "ingrediente": "1250 mg de L-Valina por porción." }
+            ],
+            "idealpara": "Para alguien que quiera aumentar su energía durante el día o para cualquier tipo de deporte que realices.",
+            "contraindicaciones": "No se recomienda la ingesta en embarazo, lactancia o si toman medicamentos para Parkinson o medicamentos para diabetes tipo I.",
+            "fotourl": "https://i.postimg.cc/7YVSv4G2/sabor-frambuesa.png"
         },
         {
             "id": 2,
-            "nombre": "test",
-            "clave": 1232,
-            "mundo": "eqeqw",
-            "submundo": "test",
-            "presentacion": "test",
-            "modouso": "test",
-            "beneficios": "test",
-            "pdiferenciador": "test",
-            "idealpara": "test",
-            "contraindicaciones": "test",
-            "fotourl": "test",
-            "__v": 0
+            "nombre": "BCAA’S LIMA LIMÓN",
+            "clave": 995484,
+            "mundo": "Nutrición Deportiva",
+            "submundo": "ACTIVA TU RUTINA",
+            "quees": "Son un grupo de 3 aminoácidos esenciales (L-Leucina, L-Valina y L-Isoleucina). Son los minoácidos más tilizados por los músculos como fuente de energía.",
+            "presentacion": "Sabor lima limón - 500 gramos.",
+            "modouso": "20 gramos al día.",
+            "beneficios": [
+                { "beneficio": "Ayuda a prevenir la degradación muscular." },
+                { "beneficio": "Son un disparador para la síntesis de proteínas." },
+                { "beneficio": "Inhiben el rompimiento de las células musculares." },
+                { "beneficio": "Ayudar a disminuir la degradación muscular" },
+                { "beneficio": "Aumento de energía." }
+            ],
+            "pdiferenciador": [
+                { "diferenciador": "Saborizantes y colorizantes 100% naturales."},
+                { "diferenciador": "5,000 mg de bcaa’s puros por porción."}
+            ],
+            "ingredientes": [
+                { "ingrediente": "2500 mg de L-Leucina por porción." },
+                { "ingrediente": "1250 mg de L-Isoleucina por porción." },
+                { "ingrediente": "1250 mg de L-Valina por porción." }
+            ],
+            "idealpara": "Para alguien que quiera aumentar su energía durante el día o para cualquier tipo de deporte que realices.",
+            "contraindicaciones": "No se recomienda la ingesta en embarazo, lactancia o si toman medicamentos para Parkinson o medicamentos para diabetes tipo I.",
+            "fotourl": "https://i.postimg.cc/VN3C9LT3/sabor-lima-limon.png"
         },
         {
             "id": 3,
-            "nombre": "test",
-            "clave": 1232,
-            "mundo": "eqeqw",
-            "submundo": "test",
-            "presentacion": "test",
-            "modouso": "test",
-            "beneficios": "test",
-            "pdiferenciador": "test",
-            "idealpara": "test",
-            "contraindicaciones": "test",
-            "fotourl": "test",
-            "__v": 0
-        },
-        {
-            "id": 4,
-            "nombre": "test",
-            "clave": 1232,
-            "mundo": "eqeqw",
-            "submundo": "test",
-            "presentacion": "test",
-            "modouso": "test",
-            "beneficios": "test",
-            "pdiferenciador": "test",
-            "idealpara": "test",
-            "contraindicaciones": "test",
-            "fotourl": "test",
-            "__v": 0
-        },
-        {
-            "id": 5,
-            "nombre": "test",
-            "clave": 1232,
-            "mundo": "eqeqw",
-            "submundo": "test",
-            "presentacion": "test",
-            "modouso": "test",
-            "beneficios": "test",
-            "pdiferenciador": "test",
-            "idealpara": "test",
-            "contraindicaciones": "test",
-            "fotourl": "test",
-            "__v": 0
+            "nombre": "BCAA’S MANGO",
+            "clave": 515661,
+            "mundo": "Nutrición Deportiva",
+            "submundo": "ACTIVA TU RUTINA",
+            "quees": "Son un grupo de 3 aminoácidos esenciales (L-Leucina, L-Valina y L-Isoleucina). Son los aminoácidos más utilizados por los músculos como fuente de energía.",
+            "presentacion": "Sabor mango - 500 gramos.",
+            "modouso": "20 gramos al día.",
+            "beneficios": [
+                { "beneficio": "Ayuda a prevenir la degradación muscular." },
+                { "beneficio": "Son un disparador para la síntesis de proteínas." },
+                { "beneficio": "Inhiben el rompimiento de las células musculares." },
+                { "beneficio": "Ayudar a disminuir la degradación muscular" },
+                { "beneficio": "Aumento de energía." }
+            ],
+            "pdiferenciador": [
+                { "diferenciador": "Saborizantes y colorizantes 100% naturales."},
+                { "diferenciador": "5,000 mg de bcaa’s puros por porción."}
+            ],
+            "ingredientes": [
+                { "ingrediente": "2500 mg de L-Leucina por porción." },
+                { "ingrediente": "1250 mg de L-Isoleucina por porción." },
+                { "ingrediente": "1250 mg de L-Valina por porción." }
+            ],
+            "idealpara": "Para alguien que quiera aumentar su energía durante el día o para cualquier tipo de deporte que realices.",
+            "contraindicaciones": "No se recomienda la ingesta en embarazo, lactancia o si toman medicamentos para Parkinson o medicamentos para diabetes tipo I.",
+            "fotourl": "https://i.postimg.cc/1zgFNNWG/sabor-mango.png"
         }
     ]
 }
